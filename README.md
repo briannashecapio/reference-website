@@ -5,3 +5,6 @@
 
 2. Best practices for commit messages
 - The best practices for commit messages is to use a minimun of three words and 10 characters. Always check for proper spelling and grammer. Always start with a capital letter and do not add periods. Always start with: Create, Add, Solve, Fix, etc
+
+3. What is HTML?
+- HTML is hypertext markup language and it is the coding language used to describe the content of websites
