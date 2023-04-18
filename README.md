@@ -8,3 +8,7 @@
 
 3. What is HTML?
 - HTML is hypertext markup language and it is the coding language used to describe the content of websites
+
+4. Proper syntax for HTML tags
+- When writing in HTML, all of the tags used to define the purpose of the text that follow a specific syntax. Example below of a syntax in HTML
+    `<p> I am a paragraph </p>`
