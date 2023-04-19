@@ -86,3 +86,9 @@
 13. What are different types of display properties?
 - The different types of display properties are inline, block, inline-block, flex, and grid.
 
+14. Write a brief explanation of flexbox property.
+- Flexbox property is when you control the alignment and flow of the elements for more complex layouts on your webpage. Flexbox properties in CSS allows you to arrange items in columns or rows.
+
+15. What are different types of flexbox properties and what is the major difference between them?
+- The different types of flexbox properties include justify-content, flex-flow, align-items, align-content, display, flex-direction, and flex-wrap. The major difference between flexbox grid places items in columns and rows and flexbox places items in a linear order.
+
