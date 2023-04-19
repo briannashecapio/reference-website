@@ -60,3 +60,18 @@
 12. span - `<span>` is a generic inline container that is used to markup a part of text or document. It can also be used in grouping elements for styling purposes in CSS. 
 13. small - `<small>` tag is used for specifying smaller text 
 
+7. Explain why accessibility is important and explain the properties like:
+- Web accessibility is important becuase it means everyone. By everyone means including users with disabilities to access your webpage. There are four principles to remeber when you want to have accessible content, and they are perceivable, operable, understandable, and robust. 
+1. Landmark roles - 
+2. Aria labels - 
+3. Image alternative texts - 
+
+8. What is CSS and how can we implement CSS to our html file (write proper explanation with the code required to attach a CSS file inside html file)
+- CSS means cascading style sheets. It is to control the appearance of our HTML pages, like the design part of it. Adding CSS to our html file include a couple of steps. First step is making a `CSS` file and the create a `style.css` document. After these are made, you put the `style.css` inside the `CSS` file. Second step is to link the CSS file in HTML. Inside HTML, you attach the CSS file inside the `<head>` in HTML document using the `<link>` element. Example below
+`<link rel="stylesheet" href="css/style.css">`
+
+9. What is the difference between CSS property and value (write a proper explanation with the code required to attach a CSS file inside html file)
+- CSS property informs CSS what you are changing and value informs CSS how you want an element to change. Property is also used with the type of design you want to add like color, border, width, etc. Value is an accepted value for property like 40px, purple. Example below of code when attaching a CSS file inside html file
+`<link rel="stylesheet" href="css/style.css">`
+
+
