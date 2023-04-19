@@ -44,3 +44,19 @@
     The `<i>` tag is used when you want to make selected text in italic
 - small
     The `<small>` tag is used when you want to make selected text smaller than the regular size font being used
+
+5. Explain block elements and explain the list of block element and why they are used from below.
+1. html - Anything inside the `<html>` and `</html>` is HTML code
+2. head - The head contains information about the page. Before `<body>` is where you will see `<head>`
+3. body - Everything inside the `<body>` element will be shown inside the main browser and window
+4. header - Represents the introductory content and usually contains a heading, logo, or icon
+5. nav - Represents a specific section of a page that links to other parts or pages within the page. The tag for this is `<nav>`
+6. main - Anything content put inside `<main>` will be displayed to the person visiting the webpage
+7. section - The `<section>` element is used to group related elements on a webpage. The `<section>` also defines the section in a HTML document
+8. article - The `<article>` element is used to specify indepent, self-contained content.
+9. div - `<div>` is a block element used to group elements together
+10. aside - `<aside>` is almost the same as `<div>` but contains content that is only related of the main page content
+11. footer - `<footer>` is found at the bottom of the webpage. They usually contain the author of a document with year in it
+12. span - `<span>` is a generic inline container that is used to markup a part of text or document. It can also be used in grouping elements for styling purposes in CSS. 
+13. small - `<small>` tag is used for specifying smaller text 
+
