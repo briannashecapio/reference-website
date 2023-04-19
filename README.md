@@ -92,3 +92,9 @@
 15. What are different types of flexbox properties and what is the major difference between them?
 - The different types of flexbox properties include justify-content, flex-flow, align-items, align-content, display, flex-direction, and flex-wrap. The major difference between flexbox grid places items in columns and rows and flexbox places items in a linear order.
 
+18. What is CSS grid property?
+- CSS grid property is are layout tools and they are used to layout rows and coloumns.
+
+20. What is the difference between display: flex and display: grid?
+    - The difference between display flex and display grid is display flex is used for layout in one dimension in either row or columns. Display grid is used for two-dimensional layout using the rows and columns at the same time.
+
