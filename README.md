@@ -98,3 +98,6 @@
 20. What is the difference between display: flex and display: grid?
     - The difference between display flex and display grid is display flex is used for layout in one dimension in either row or columns. Display grid is used for two-dimensional layout using the rows and columns at the same time.
 
+25. Explain the steps to add google fonts to your CSS file and how you will link it to the html file.
+- The steps to add google fonts to your CSS file is to first select a font on google fonts website. After finding one, click on select style. After selecting, click on the box on the top right of page. After clicking, scroll down and you will see a link of your selected text. Then copy the link and paste it to your inside the head on HTML file. To use the font, you will go to "CSS rules to specify families" on google font website copy the CSS code to use on your CSS file.
+
