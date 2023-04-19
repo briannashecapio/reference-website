@@ -74,4 +74,9 @@
 - CSS property informs CSS what you are changing and value informs CSS how you want an element to change. Property is also used with the type of design you want to add like color, border, width, etc. Value is an accepted value for property like 40px, purple. Example below of code when attaching a CSS file inside html file
 `<link rel="stylesheet" href="css/style.css">`
 
+10. Why do we use border-box property in CSS?
+- We use border-box property in CSS becuase it is for setting box-sizing. It is used to setting the height and width to the border of the document.
+
+11. Explain different type of ways we can add spacing to an element
+- Different type of ways we can add spacing to an element is to either use the margin and padding properties. 
 
