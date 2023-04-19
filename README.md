@@ -80,3 +80,9 @@
 11. Explain different type of ways we can add spacing to an element
 - Different type of ways we can add spacing to an element is to either use the margin and padding properties. 
 
+12. What is the main difference between margin and padding?
+- The differences between margin and padding is margin is the space around an elements border and padding is usually the space between an elements border and the elements content.
+
+13. What are different types of display properties?
+- The different types of display properties are inline, block, inline-block, flex, and grid.
+
